@@ -25,8 +25,8 @@ Visualisation 6 shows bike trip start times between Jan 2014 and June 2014. It a
 
 Visualisation 7 & 8 present bike journey start times for the 12th day in January and June respectively.
 
-**The peak around 3pm to 5pm in January explains the school and work home times. There is less activity in the morning, which could be due to short days and darker mornings. 
+**The peak around 3pm to 5pm in January explains the school and work home times. There is less activity in the morning, which could be due to short days and darker mornings.** 
 
-The charts displaying start times by hours has also been separated by Gender. The chart trends are similar for male and female riders, however as there are more male bike users the trip data reflects this fact too.
+**The charts displaying start times by hours has also been separated by Gender. The chart trends are similar for male and female riders, however as there are more male bike users the trip data reflects this fact too.**
 
-In contrast, the chart for June shows peaks around 8am in the mornings which would relate to journey times to schools and work and the same around 5pm which would explain the same trips back home.**
+**In contrast, the chart for June shows peaks around 8am in the mornings which would relate to journey times to schools and work and the same around 5pm which would explain the same trips back home.**
